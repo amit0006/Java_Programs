@@ -1,3 +1,4 @@
+//Perform the addition on two matrix
 import java.util.Scanner;
 public class MatrixSum{
         int m,n,p,q;
