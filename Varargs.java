@@ -8,6 +8,6 @@ public class Varargs{
 		show();
 		show(10,20);
 		show(10,10,10,101,10,10,109);
-		show(int a{10,20,30,40,50});
+		show(new int[]{10,20,30,40,50});
 	}
 }
